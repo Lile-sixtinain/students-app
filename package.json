@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lile-sixtinain/students-app/issues"
   },
-  "homepage": "https://github.com/Lile-sixtinain/students-app#readme"
+  "homepage": "https://github.com/Lile-sixtinain/students-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

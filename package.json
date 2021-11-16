@@ -1,0 +1,22 @@
+{
+  "name": "students-app",
+  "version": "1.0.0",
+  "description": "app example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lile-sixtinain/students-app.git"
+  },
+  "keywords": [
+    "students"
+  ],
+  "author": "lile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lile-sixtinain/students-app/issues"
+  },
+  "homepage": "https://github.com/Lile-sixtinain/students-app#readme"
+}
